@@ -1,5 +1,4 @@
 # a986495-tech.github.io
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
